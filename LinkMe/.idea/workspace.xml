@@ -16,12 +16,19 @@
         <entry file="file://$PROJECT_DIR$/MockTest/基本操作说明">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="37" selection-start-column="37" selection-end-column="37" />
+              <caret column="74" lean-forward="true" selection-start-column="74" selection-end-column="74" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/MockTest/基本操作说明" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -52,11 +59,6 @@
             <path>
               <item name="LinkMe" type="b2602c69:ProjectViewProjectNode" />
               <item name="LinkMe" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LinkMe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LinkMe" type="462c0819:PsiDirectoryNode" />
-              <item name="MockTest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LinkMe" type="b2602c69:ProjectViewProjectNode" />
@@ -145,15 +147,15 @@
       <option name="presentableId" value="Default" />
       <updated>1533265540673</updated>
       <workItem from="1533265542219" duration="110000" />
-      <workItem from="1533265685527" duration="292000" />
+      <workItem from="1533265685527" duration="1118000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="402000" />
+    <option name="totallyTimeSpent" value="1228000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="150" y="83" width="1208" height="749" extended-state="0" />
+    <frame x="229" y="85" width="1208" height="749" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -201,13 +203,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2903" />
+        <state relative-caret-position="-4188" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MockTest/基本操作说明">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="37" selection-start-column="37" selection-end-column="37" />
+          <caret column="74" lean-forward="true" selection-start-column="74" selection-end-column="74" />
         </state>
       </provider>
     </entry>
